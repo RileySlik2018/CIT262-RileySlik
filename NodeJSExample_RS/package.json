@@ -1,0 +1,22 @@
+{
+  "name": "nodejsexample_rs",
+  "version": "1.0.0",
+  "description": "Test node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RileySlik2018/CIT262-RileySlik.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Riley Slik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RileySlik2018/CIT262-RileySlik/issues"
+  },
+  "homepage": "https://github.com/RileySlik2018/CIT262-RileySlik#readme"
+}
